@@ -1177,4 +1177,4 @@ client.on('message', message => {
 });
 
 
-client.login('NTQzNDEzOTgxOTc3NjQwOTg1.Dz8Oxw.RNSEdIio6kLfPN87FEl0EmbSfaQ');
+client.login('NTQzNDEzOTgxOTc3NjQwOTg1.Dz9lBg.w24-4LcE9Xwh-DGvdRYq0hC3WF8');
