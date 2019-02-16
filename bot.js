@@ -27,7 +27,7 @@ client.on("message", message => {
    message.react("😜")
   const embed = new Discord.RichEmbed()
       .setColor("RANDOM")
-      .addField("『TLC|BOT』 『اسم البوت』", true)
+      .addField("『EP|BOT』 『اسم البوت』", true)
       
       .addField("『مصمم البوت』 『HamzaGamerYT』", true)
       
@@ -1177,4 +1177,4 @@ client.on('message', message => {
 });
 
 
-client.login('NTQ2MDg0Njg2NzI4OTIxMTIw.D0jEng.RhRASevrMNwn_pAd_AWulSHWf8w');
+client.login('NTQ2MjA3NjU4ODUyNzQ1MjM2.D0lBsQ.e1kuaNTbqRBFTcNUalLo-UjpRFg');
